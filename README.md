@@ -15,6 +15,9 @@ This project was part of my DSND at Udacity.  The data was made available via Ka
 20181109 - pipeline.ipynb - This is the pipeline file which includes exploration and visualizations, run in jupyter notebook
 
 test.csv - testing set provided by kaggle, does not include the target variable
+
 train.csv - training set provided by kaggle
+
 submissions.csv - sample submission to kaggle competition
+
 data_description.txt - description of each field provided in the datasets
