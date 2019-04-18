@@ -2,7 +2,7 @@
 
 In this post I will explores the Ames Housing dataset was compiled by Dean De Cock for use in data science education. You may find the dataset hosted on Kaggle.com, as well as exploratory and data-modelling kernels hosted at this link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
-##Running the project
+## Running the project
 
 To run the project open in ipynb file in jupyter notebooks (20181109 - pipeline.ipynb)
 
